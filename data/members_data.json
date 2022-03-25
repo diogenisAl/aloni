@@ -1,17 +1,8 @@
 [
- {"id": 0,
-  "latin_name": "Canis Lupus Familiaris",
-  "english_name": "Dog",
-  "genus": "Canis",
-  "class": "Mammalia"},
- {"id": 1,
-  "latin_name": "Felis Catus",
-  "english_name": "Cat",
-  "genus": "Felis",
-  "class": "Mammalia"},
- {"id": 2,
-  "latin_name": "Carassius Auratus",
-  "english_name": "Goldfish",
-  "genus": "Carassius",
-  "class": "Actinopterygii"}
+ {"team_name": "enter-your-team-name",
+  "members_IDs": "2021xxxx, 2021yyyy, 2021tttt",
+  "final_report_link": "https://www.foufoutos.gr/final_report.pdf"},
+ {"team_name": "enter-your-team-name",
+  "members_IDs": "2021cccc, 2021vvvv, 2021aaaa",
+  "final_report_link": "https://www.foufoutos.gr/final_report.pdf"}
 ]
