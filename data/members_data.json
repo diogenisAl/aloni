@@ -1,0 +1,17 @@
+[
+ {"id": 0,
+  "latin_name": "Canis Lupus Familiaris",
+  "english_name": "Dog",
+  "genus": "Canis",
+  "class": "Mammalia"},
+ {"id": 1,
+  "latin_name": "Felis Catus",
+  "english_name": "Cat",
+  "genus": "Felis",
+  "class": "Mammalia"},
+ {"id": 2,
+  "latin_name": "Carassius Auratus",
+  "english_name": "Goldfish",
+  "genus": "Carassius",
+  "class": "Actinopterygii"}
+]
